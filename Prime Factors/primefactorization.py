@@ -1,3 +1,4 @@
+
 n=int(input("Enter an integer:"))
 print("Factors are:")
 i=0
