@@ -1,3 +1,10 @@
+
+#include<conio.h>
+#include <stdio.h>
+int incr(int);
+int decr(int);
+
+
 int main()
 {
     int num,ch;
