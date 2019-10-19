@@ -16,7 +16,7 @@ int main()
     printf("enter the choice");
     scanf("%d",&ch);
     
-    switch(num) {
+    switch(ch) {
         case 1: {
             int res;
             res=incr(num);
